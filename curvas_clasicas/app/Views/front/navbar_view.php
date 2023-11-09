@@ -30,7 +30,7 @@ $perfil = $session->get('perfil_id');
           <a class="nav-link active" aria-current="page" href="<?php echo base_url("listar_usuarios_admi");?>">Listar usuarios</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="http://localhost/phpmyadmin/index.php?route=/table/change&db=castillo_brenda&table=productos" target="_blank">Agregar productos</a>
+            <a class="nav-link active" aria-current="page" href="http://localhost/phpmyadmin/index.php?route=/table/change&db=laforcada_matias&table=productos" target="_blank">Agregar productos</a>
           </li>
           <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="<?php echo base_url("listar_productos_admi");?>">Listar productos</a>
